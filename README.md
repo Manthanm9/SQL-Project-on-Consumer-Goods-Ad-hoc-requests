@@ -3,4 +3,5 @@
 * Data cleaning, writing SQL queries to answer business requirements. 
 * After generating insights creating presentation for senior management with proper SQL outputs and visualizations
 
-# Key skills used- MySQL, PowerBI, MS Powerpoint, Google sheets
+# Key skills used- 
+MySQL, PowerBI, MS Powerpoint, Google sheets
