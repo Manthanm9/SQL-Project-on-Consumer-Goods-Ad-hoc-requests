@@ -4,4 +4,4 @@
 * After generating insights creating presentation for senior management with proper SQL outputs and visualizations
 
 # Key skills used- 
-MySQL, PowerBI, MS Powerpoint, Google sheets
+Python,Sql,MySqlServer,Go 
